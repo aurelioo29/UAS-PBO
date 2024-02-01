@@ -1,6 +1,6 @@
-(tambah.php) <?php
-// Nama : NICO SALIM
-// NIM : 223303030422
+<?php
+// Nama : AURELIO LUCIO LIE
+// NIM : 223303030427
 // Kelas : 3 Malam A
 
 include 'proses.php';

@@ -1,7 +1,8 @@
 <?php
-// Nama : NICO SALIM
-// NIM : 223303030422
+// Nama : AURELIO LUCIO LIE
+// NIM : 223303030427
 // Kelas : 3 Malam A
+
 	include 'proses.php';
 	if (isset($_POST['simpan'])) {
 		$id = $_POST['id'];

@@ -1,6 +1,6 @@
 <?php
-// Nama : NICO SALIM
-// NIM : 223303030422
+// Nama : AURELIO LUCIO LIE
+// NIM : 223303030427
 // Kelas : 3 Malam A
 
 $id = isset($_GET['id']) ? $_GET['id'] : die('Error: Record ID not found.');
